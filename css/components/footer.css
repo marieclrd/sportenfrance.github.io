@@ -1,0 +1,28 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #F2F2F2;
+}
+.footer p {
+    color: #000000;
+    margin-top: 8px;
+}
+.footer a {
+    font-size: 30px;
+  }
+ul {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.links{
+    list-style: none;
+    padding-left: 0px;
+}
+.links li{
+    display: inline;
+    padding: 30px;
+}

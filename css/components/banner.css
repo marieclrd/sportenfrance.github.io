@@ -1,0 +1,21 @@
+.banner {
+    background-image: url(bannière.png);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+.logo{
+    width: 120px;
+    margin-left: 10px;
+    }
+.titres{
+    margin-left: 10px;
+}
+.titres h1{
+    font-size: 3.3em;
+    color: white;
+}
+.titres h2{
+    font-size: 2em;
+    color: white;
+}
